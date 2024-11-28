@@ -10,6 +10,6 @@ if a + b > c and a + c > b and b + c > a:
     elif (a**2 + b**2 == c**2) or (a**2 + c**2 == b**2) or (b**2 + c**2 == a**2):
         print("\nC'est un triangle rectangle ✅\n")
     else:
-        print("\nC'est un triangle quelconque 😬\n")
+        print("\nC'est un triangle quelconque 😄\n")
 else:
     print("\nCes longueurs ne peuvent pas former un triangle ❌\n")
