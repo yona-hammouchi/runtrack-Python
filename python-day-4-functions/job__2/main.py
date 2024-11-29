@@ -1,7 +1,11 @@
 def my_print_name():
-    print("my_print_name")
+    print("name")
 
-my_print_name()
+print("bonjour")
+print("ça va")
+print("oui")
+print("et toi")
+
 
 
 
